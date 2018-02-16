@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex LasingWithoutInversion"] 1518712496 "LasingWithoutInversion.aux" "LasingWithoutInversion.bbl" "LasingWithoutInversion" 1518712497
+["bibtex LasingWithoutInversion"] 1518776554 "LasingWithoutInversion.aux" "LasingWithoutInversion.bbl" "LasingWithoutInversion" 1518776555
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "LasingWithoutInversion.aux" 1518712496 264 6e5afbe95f6236ae2c92cb549e4fdcd3 ""
+  "LasingWithoutInversion.aux" 1518776555 264 6e5afbe95f6236ae2c92cb549e4fdcd3 ""
   "references.bib" 0 -1 0 ""
   (generated)
   "LasingWithoutInversion.bbl"
   "LasingWithoutInversion.blg"
-["pdflatex"] 1518712496 "LasingWithoutInversion.tex" "LasingWithoutInversion.pdf" "LasingWithoutInversion" 1518712497
+["pdflatex"] 1518776554 "LasingWithoutInversion.tex" "LasingWithoutInversion.pdf" "LasingWithoutInversion" 1518776555
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -34,10 +34,10 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1518527986 2542651 869fe163abddb345701fd334f4b1164c ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1518528036 4131551 612acf1f87ce7c32accfd2b3c3ff7767 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "LasingWithoutInversion.aux" 1518712496 264 6e5afbe95f6236ae2c92cb549e4fdcd3 ""
+  "LasingWithoutInversion.aux" 1518776555 264 6e5afbe95f6236ae2c92cb549e4fdcd3 ""
   "LasingWithoutInversion.bbl" 0 -1 0 "bibtex LasingWithoutInversion"
-  "LasingWithoutInversion.tex" 1518712492 343 de7031f8f116ee83d38e926d3b46cf2d ""
+  "LasingWithoutInversion.tex" 1518776553 350 672ca775e0f6115f43185bbbc8585113 ""
   (generated)
+  "LasingWithoutInversion.pdf"
   "LasingWithoutInversion.aux"
   "LasingWithoutInversion.log"
-  "LasingWithoutInversion.pdf"
