@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.13)  16 FEB 2018 10:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.22)  21 MAR 2018 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **LasingWithoutInversion.tex
 (./LasingWithoutInversion.tex
 LaTeX2e <2017-04-15>
-Babel <3.17> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
@@ -362,29 +362,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
+ (./LasingWithoutInversion.bbl [1
 
-No file LasingWithoutInversion.bbl.
-[1
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./LasingWithoutInversion.aux) ) 
+Overfull \hbox (2.02911pt too wide) in paragraph at lines 19--19
+[]\OT1/cmr/bx/n/12 Amplification with-out In-ver-sion (AwI) Multi-level sys-
+ []
+
+
+Overfull \hbox (15.81815pt too wide) in paragraph at lines 26--26
+[]\OT1/cmr/bx/n/12 3rd con-fir-ma-tion of AwI, Cad-mium Vapour ($\OMS/cmsy/m/n/
+12 ^^X$\OT1/cmr/bx/n/12 250 words) 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+
+Overfull \hbox (15.70561pt too wide) in paragraph at lines 33--33
+[]\OT1/cmr/bx/n/12 Electromagnetically In-duced Trans-parency ($\OMS/cmsy/m/n/1
+2 ^^X$\OT1/cmr/bx/n/12 250 words) 
+ []
+
+
+Overfull \hbox (10.75793pt too wide) in paragraph at lines 35--35
+[]\OT1/cmr/bx/n/14.4 State-of-the-art and Fu-ture De-vel-op-ment ($\OMS/cmsy/m/
+n/14.4 ^^X$\OT1/cmr/bx/n/14.4 300
+ []
+
+[2] [3] (./LasingWithoutInversion.aux) ) 
 Here is how much of TeX's memory you used:
- 533 strings out of 492980
- 5087 string characters out of 6132509
- 57401 words of memory out of 5000000
- 4160 multiletter control sequences out of 15000+600000
- 7280 words of font info for 26 fonts, out of 8000000 for 9000
+ 562 strings out of 492982
+ 5494 string characters out of 6132527
+ 60400 words of memory out of 5000000
+ 4182 multiletter control sequences out of 15000+600000
+ 9165 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,17p,203b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb>
-Output written on LasingWithoutInversion.pdf (1 page, 45633 bytes).
+ 23i,6n,21p,203b,205s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb>
+Output written on LasingWithoutInversion.pdf (3 pages, 117511 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
