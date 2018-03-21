@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex LasingWithoutInversion"] 1521628702 "LasingWithoutInversion.aux" "LasingWithoutInversion.bbl" "LasingWithoutInversion" 1521643083
+["bibtex LasingWithoutInversion"] 1521628702 "LasingWithoutInversion.aux" "LasingWithoutInversion.bbl" "LasingWithoutInversion" 1521644258
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "LasingWithoutInversion.aux" 1521643083 2597 7da5a390daace424111b004b9f807613 ""
+  "LasingWithoutInversion.aux" 1521644258 2597 7da5a390daace424111b004b9f807613 ""
   "LasingWithoutInversion.bcf" 0 -1 0 ""
   "references.bib" 1521638670 8133 33501570161519ddeab378a1f77c969d ""
   (generated)
-  "LasingWithoutInversion.blg"
   "LasingWithoutInversion.bbl"
-["pdflatex"] 1521643083 "LasingWithoutInversion.tex" "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.pdf" "LasingWithoutInversion" 1521643083
+  "LasingWithoutInversion.blg"
+["pdflatex"] 1521644258 "LasingWithoutInversion.tex" "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.pdf" "LasingWithoutInversion" 1521644258
   "/etc/texmf/web2c/texmf.cnf" 1521626480 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.aux" 1521643083 2597 7da5a390daace424111b004b9f807613 ""
+  "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.aux" 1521644258 2597 7da5a390daace424111b004b9f807613 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -45,12 +45,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1521626668 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1521626677 3854065 bbe5fded8ce09643e89c8251456d6700 ""
-  "LasingWithoutInversion.aux" 1521643083 2597 7da5a390daace424111b004b9f807613 ""
+  "LasingWithoutInversion.aux" 1521644258 2597 7da5a390daace424111b004b9f807613 ""
   "LasingWithoutInversion.bbl" 1521638670 2544 1309387b4bc01f5d7d25a6fc48b9766a "bibtex LasingWithoutInversion"
-  "LasingWithoutInversion.tex" 1521643082 1784 30e0641de1c649dbf2e9233401c4f959 ""
+  "LasingWithoutInversion.tex" 1521643652 1790 f0a2e8f1ff6a686a10310f7546652cb2 ""
   (generated)
-  "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.log"
-  "LasingWithoutInversion.pdf"
   "LasingWithoutInversion.log"
   "LasingWithoutInversion.aux"
+  "LasingWithoutInversion.pdf"
   "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.pdf"
+  "/home/berke/Documents/GitHubRepos/LasingWithoutInversion/LasingWithoutInversion.log"
