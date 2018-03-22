@@ -1,6 +1,6 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc} %useful to type directly diacritic characters
-%\usepackage{hyperref}
+\usepackage{hyperref}
 \title{Lasing Without Inversion}
 \author{Berke Vow Ricketti}
 \begin{document}
@@ -9,7 +9,7 @@
 
 \bibliographystyle{ieeetr}
 \bibliography{references}
-\section{Abstract ($\sim$100 words)}
+\section{Abstract (100 words)}
 
 \section{Introduction (340 words)}
 
@@ -25,34 +25,63 @@ Conventional, population inversion driven lasers are unable to achieve sufficien
 
 In Section 2 of this work, theoretical methods of achieving of LwI and Amplification without Inversion (AwI) in two-level, three-level, and multi-level systems will be explored. In Section 3, the first experiments to confirm AwI will be discussed. In Section 4, modern applications of LwI and AwI will be described, followed by a look into the state-of-the-art and future developments of the technology in Section 5, before concluding in Section 6.
 
-\section{Theoretical Methodology ($\sim$750)}
-\subsection{2-level system) ($\sim$250 words)}
+\section{Theoretical Methodology (750)}
+\subsection{2-level system) (250 words)}
 \subsubsection{Recoil Induced lasing}
 
-The concept of recoil induced lasing comes through a simple considering of the conservation laws of energy and momentum. In a two-level system, two events may occur: an atom will absorb a photon and get excited to the higher energy start, or an atom will emmit a photon and relax down to the lower energy ground state. In both instances, the atom feels a recoil and change in its moment due to the momentum of the photon.
+The concept of recoil induced lasing comes through a simple considering of the conservation laws of energy and momentum. Consider a two-level system where an atom may either absorb a photon and be excited to a higher energy start, or emit a photon and relax down to a lower energy state. In both instances, the atom feels is subject to a recoil and change in its momentum due to the momentum of the photon.
+
+Consider a photon incident upon an atom in the ground state, right before it is absorbed. The frequency of the photon, $\omega_{a}$ is given by:
+
+\begin{equation}
+\omega_{a}=\omega+\Delta\omega
+\end{equation}\label{eq:1}
+
+
+where $\omega$ is the frequency corresponding to the atom's energy gap between its ground state and excited state and $\Delta\omega$ is the energy corresponding to the recoil, or momentum change, of the atom, defined as:
+
+\begin{equation}
+\Delta\omega = frac{h\omega^{2}}{2mc^{2}}
+\end{equation}\label{eq:2}
+
+
+where $h$ is planck's constant, $m$ is the mass of the atom, and $c$ is the speed of light. As such, this is almost a relativistic consideration, as we bring the atom's mass into play when considering the energy.
+
+Let us now consider the other instance, where a photon is spontaneously emitted from an atom its excited state. Once again, the frequency of the emitted photon will depend on both the energy gap and the momentum change of the atom:
+
+\begin{equation}
+\omega_{e}=\omega-\Delta\omega
+\end{equation}\label{eq:3}
+
+Taking the difference between \hyperref[eq:2]{Eqs 2} and \hyperref[eq:3]{3} gives us the difference between the absorption and emition frequencies.
+
+\begin{equation}
+\Delta\omega = \frac{h\omega^2}{mc^2}
+\end{equation}\label{eq:4}
+
 
 \subsubsection{Coherently driven 2-level system}
-\subsection{Amplification without Inversion (AwI) 3-level system ($\sim$250 words)}
-\subsection{Amplification without Inversion (AwI) Multi-level system ($\sim$250 words)}
+\subsection{Amplification without Inversion (AwI) 3-level system (250 words)}
+\subsection{Amplification without Inversion (AwI) Multi-level system (250 words)}
 
-\section{Experimental Confirmation ($\sim$750 words)}
-\subsection{First confirmation of AwI, Zeeman coherence ($\sim$250 words)}
+\section{Experimental Confirmation (50 words)}
+\subsection{First confirmation of AwI, Zeeman coherence (250 words)}
 Nottelmann et al. 1993 \cite{Nottelmann1993}
-\subsection{2nd confirmation of AwI, D\textsubscript{1} line atomic sodium ($\sim$250 words)}
+\subsection{2nd confirmation of AwI, D1 line atomic sodium (250 words)}
 Fry et al. 1993 \cite{PhysRevLett.70.3235}
-\subsection{3rd confirmation of AwI, Cadmium Vapour ($\sim$250 words)}
+\subsection{3rd confirmation of AwI, Cadmium Vapour (250 words)}
 van der Veer et al. 1993 \cite{PhysRevLett.70.3243}
 
-\section{Applications ($\sim$750 words)}
+\section{Applications (750 words)}
 \subsection{Short wavelength lasers}
-\subsubsection{X-ray lasers ($\sim$250 words)}
-\subsubsection{$\gamma$ - ray lasers ($\sim$250 words)}
-\subsection{Electromagnetically Induced Transparency ($\sim$250 words)}
+\subsubsection{X-ray lasers (250 words)}
+\subsubsection{gamma - ray lasers (250 words)}
+\subsection{Electromagnetically Induced Transparency (250 words)}
 
-\section{State-of-the-art and Future Development ($\sim$300 words)}
+\section{State-of-the-art and Future Development (300 words)}
 
-\section{Conclusion ($\sim$100 words)}
+\section{Conclusion (100 words)}
 
-Word count: $\sim$3050
+Word count: 3050
 
 \end{document}
